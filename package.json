@@ -16,7 +16,7 @@
   "dependencies": {
     "express": "^4.16.4",
     "fresh": "^0.1.0",
-    "nodemon": "^1.18.10"
+    "nodemon": "^2.0.0"
   },
   "devDependencies": {
     "cowsay": "^1.4.0"
