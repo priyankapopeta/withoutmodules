@@ -14,7 +14,7 @@
   "author": "Vimala Sirvi",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.4",
+    "express": "^4.19.2",
     "fresh": "^0.1.0",
     "nodemon": "^1.18.10"
   },
